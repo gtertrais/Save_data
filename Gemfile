@@ -1,0 +1,7 @@
+ruby '2.5.1'
+source 'https://rubygems.org'
+gem 'pry'
+gem 'rspec'
+gem 'json'
+gem 'google_drive'
+gem 'nokogiri' 
